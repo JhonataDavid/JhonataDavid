@@ -4,7 +4,7 @@
 
 **`Desenvolvedor BackEnd`**
 
-Meu nome é Jhonata David, tenho 21 anos, sou Natural de Natal RN e sou apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou focado na área de programação, com ênfase em Back-end, sou apaixonado por Java e venho me dedicando ao aprendizado contínuo por meio de cursos e projetos práticos. Atualmente cursando Analise e Desenvolvimento de Sistemas. Acesse meu [portfolio](https://jhonatadavid.github.io/portfolio/index.html).
+Meu nome é Jhonata David, tenho 21 anos, sou Natural de Natal RN e sou apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou focado na área de programação, com ênfase em Back-end, sou apaixonado por Java e venho me dedicando ao aprendizado contínuo por meio de cursos e projetos práticos.
 
 <p align="left">
     <a href="https://github.com/JhonataDavid?tab=repositories&sort=stargazers">
