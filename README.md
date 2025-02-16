@@ -1,5 +1,6 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=161AFA&height=120&section=header"/>
 
-# 👨🏾‍💻 Jhonata David
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+JHONATA+DAVID;Atualmente+estou+cursando;Analise+e+Desenvolvimento+de+Sistemas+na+UnP;Bem+Vindo!+:%30)](https://git.io/typing-svg)
 
 **`Desenvolvedor BackEnd`**
 
@@ -145,4 +146,4 @@ Meu nome é Jhonata David, tenho 21 anos, sou Natural de Natal RN e sou apaixona
 
 </p>
 
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=161AFA&height=120&section=footer"/>
